@@ -1,6 +1,8 @@
 # fastapi bigdata server example
 This code is bigdata server program written in Python using the FastAPI framework. It is designed to handle file exchanges between a client and a server via HTTP POST requests and WebSocket connections. Here's an overview of the key features:
 
+![Thumnail](https://github.com/mac999/fastapi_bigdata_server_example/blob/main/api.PNG)
+
 # Features:
 1. **Logging and Debugging**:
    - The script uses Python's `logging` module for debugging purposes.
