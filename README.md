@@ -4,6 +4,7 @@ This code is bigdata server program written in Python using the FastAPI framewor
 ![Thumnail](https://github.com/mac999/fastapi_bigdata_server_example/blob/main/api.PNG)
 
 # Features:
+Refer to [blog article](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)</br>
 1. **Logging and Debugging**:
    - The script uses Python's `logging` module for debugging purposes.
    - Logging is set to the `DEBUG` level to capture detailed information about the application's execution.
