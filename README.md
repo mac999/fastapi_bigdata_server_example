@@ -34,4 +34,8 @@ This code is bigdata server program written in Python using the FastAPI framewor
   ```
   - This starts the FastAPI server on port 8001, with a maximum WebSocket size of 16 MB.
 
-This script is a good starting point for setting up a FastAPI server that needs to process files and perform background tasks asynchronously.
+# Author
+Taewook Kang (laputa99999@gmail.com)
+
+# License
+MIT License
